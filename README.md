@@ -1,4 +1,4 @@
-## Hi there 👋
+## សួស្តី 👋
 
 <!--
 **Chum-Phula/Chum-Phula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
